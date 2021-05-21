@@ -7,6 +7,10 @@
 #alamat {
   background-color: #ff6699;
 }
+.container {
+  width: 100%;
+  min-height: 200px;
+}
 section {
   padding-top: 6rem;
 }

@@ -1,14 +1,12 @@
 .jumbotron {
-  padding-top: 8rem;
   background-color: #ff6699;
 }
 #produk {
   background-color: #ff6699;
 }
-section {
-  margin-top: 0;
-  padding-top: 5rem;
+#alamat {
+  background-color: #ff6699;
 }
-h2 {
-  font-family: "Lucida Sans";
+section {
+  padding-top: 6rem;
 }
